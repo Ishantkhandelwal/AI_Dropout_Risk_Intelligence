@@ -165,4 +165,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Ishant Khandelwal**
 - GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: [Ishant Khandelwal](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- LinkedIn: [Ishant Khandelwal]()
